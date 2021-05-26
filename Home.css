@@ -206,7 +206,6 @@
 .u-section-6 .u-group-1 {
   width: 504px;
   min-height: 505px;
-  height: auto;
   margin: 57px 0 0 auto;
 }
 
@@ -229,7 +228,6 @@
 @media (max-width: 1199px) {
   .u-section-6 .u-group-1 {
     width: 465px;
-    height: auto;
   }
 
   .u-section-6 .u-container-layout-1 {
@@ -302,7 +300,6 @@
 .u-section-8 .u-group-1 {
   width: 504px;
   min-height: 525px;
-  height: auto;
   margin: 30px 0 0 auto;
 }
 
@@ -325,7 +322,6 @@
 @media (max-width: 1199px) {
   .u-section-8 .u-group-1 {
     width: 465px;
-    height: auto;
   }
 
   .u-section-8 .u-container-layout-1 {
@@ -401,7 +397,6 @@
 .u-section-10 .u-group-1 {
   width: 504px;
   min-height: 505px;
-  height: auto;
   margin: 60px 0 0 auto;
 }
 
@@ -422,10 +417,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-10 .u-group-1 {
-    height: auto;
-  }
-
   .u-section-10 .u-container-layout-1 {
     padding-left: 50px;
     padding-right: 50px;
@@ -486,7 +477,7 @@
 
 .u-section-12 .u-text-1 {
   font-weight: 700;
-  margin: 20px 20px 60px 85px;
+  margin: 47px 30px 60px 75px;
 }
 
 @media (max-width: 1199px) {
@@ -549,11 +540,11 @@
 }
 
 .u-section-13 .u-text-1 {
-  margin: -9px auto 0 100px;
+  margin: -9px 754px 0 100px;
 }
 
 .u-section-13 .u-text-2 {
-  margin: -39px 125px 0 auto;
+  margin: -39px 125px 0 678px;
 }
 
 .u-section-13 .u-gallery-1 {
@@ -583,6 +574,14 @@
     min-height: 480px;
   }
 
+  .u-section-13 .u-text-1 {
+    margin-right: 654px;
+  }
+
+  .u-section-13 .u-text-2 {
+    margin-left: 578px;
+  }
+
   .u-section-13 .u-gallery-1 {
     grid-template-columns: repeat(3, auto);
     height: 291px;
@@ -598,6 +597,14 @@
 @media (max-width: 991px) {
   .u-section-13 .u-sheet-1 {
     min-height: 1081px;
+  }
+
+  .u-section-13 .u-text-1 {
+    margin-right: 434px;
+  }
+
+  .u-section-13 .u-text-2 {
+    margin-left: 383px;
   }
 
   .u-section-13 .u-gallery-1 {
@@ -616,6 +623,14 @@
     min-height: 858px;
   }
 
+  .u-section-13 .u-text-1 {
+    margin-right: 254px;
+  }
+
+  .u-section-13 .u-text-2 {
+    margin-left: 203px;
+  }
+
   .u-section-13 .u-gallery-1 {
     grid-template-columns: repeat(1, auto);
     height: 669px;
@@ -628,8 +643,13 @@
     min-height: 610px;
   }
 
+  .u-section-13 .u-text-1 {
+    margin-right: 54px;
+  }
+
   .u-section-13 .u-text-2 {
     margin-right: 79px;
+    margin-left: 3px;
   }
 
   .u-section-13 .u-gallery-1 {
